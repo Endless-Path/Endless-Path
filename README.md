@@ -56,7 +56,6 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/Endless-Path"><img src="https://img.shields.io/badge/GitHub-Endless-Path-blue?logo=github" /></a>
 <a href="https://wakatime.com/@Endless-Path"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Endless-Path" />
