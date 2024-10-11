@@ -46,7 +46,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Endless-Path&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Endless-Path&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=EndlessPath&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endless-Path&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
@@ -56,7 +56,6 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://wakatime.com/@Endless-Path"><img src="[https://wakatime.com/badge/user/4ed0208a-1bdb-4f06-9f77-a3f33a19dd38.svg]" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Endless-Path" />
 </p>
